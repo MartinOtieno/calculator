@@ -4,6 +4,9 @@ body{
     font-family: 'Poppins', sans-serif;
     box-sizing: border-box;
 }
+.hero{
+    background: red;
+}
 .wrap{
     display: flex;
 }
@@ -33,6 +36,7 @@ p{
 }
 span{
     color: aqua;
+    /* color: #fff; */
 }
 .container{
     width: 100%;
@@ -44,6 +48,7 @@ span{
 }
 .calculator{
     background: #3a4452;
+    /* background: pink; */
     padding: 20px;
     border-radius: 10px;
     /* width: 60vh;
